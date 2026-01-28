@@ -208,3 +208,8 @@ backup
 # Added by cargo
 
 /target
+
+.trae/
+md/*
+AI_test/*
+conf/service_conf.yaml
